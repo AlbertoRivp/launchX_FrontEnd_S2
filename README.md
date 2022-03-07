@@ -1,2 +1,2 @@
 # launchX_FrontEnd_S2
-Yet another repo with practices for missión two
+Un repositorio con mi proceso de las practicas de la semana 2
